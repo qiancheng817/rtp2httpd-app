@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rtp2httpd</string>
+    <string name="settings_title">服务器设置</string>
+    <string name="server_url_hint">http://服务器IP:5140</string>
+    <string name="server_url_label">rtp2httpd 服务器地址</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_connect">连接</string>
+    <string name="btn_open_settings">去设置</string>
+    <string name="no_server_configured">尚未配置服务器地址</string>
+    <string name="loading">加载中…</string>
+    <string name="refresh">刷新</string>
+    <string name="server_unreachable">服务器无法连接，请检查地址或网络</string>
+    <string name="invalid_url">请输入有效的 URL（含 http:// 或 https://）</string>
+</resources>
